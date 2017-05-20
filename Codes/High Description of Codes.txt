@@ -1,0 +1,5 @@
+CollectTweets.py, CollectTweets_Cal.py - These python files collect tweets from New Jersey and California respectively based on keywords and lcoations
+
+Tweets Data Exploration.py - This file extracts twitter data collected in the form of json format and loads it into pandas dataframe for exploration of data, plotting of data.
+
+Regression Models.py - This file loads the data from excel file and performs regression analysis on the data with features.
